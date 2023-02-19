@@ -1,0 +1,41 @@
+void main() {
+  print('hello world');
+  print('this is muhammad asim');
+  print('lets start dart.');
+  print('father name');
+  print('mother name');
+  print('brother name');
+  print('*********');
+  print('*         *');
+  print('*         *');
+  print('*         *');
+  print('*         *');
+  print('**********');
+  print('assigment');
+  print('gram to create  square shape with steric(*)');
+  print('Write dart program rectangle shape with steric(*)');
+  print('Write art program triangle shapes with  steric(*)');
+  print('Write art program pentagon shape with steric(*)');
+  print('Write art program circle shape with  steric(*)');
+  print('Write art program Heart shape with steric (*)');
+  print(
+      'Write art program to print full pyramid using *Assignment (Post screenshot in the group link is given above)');
+  print('*****************');
+  print('*  r             *');
+  print('*   e            *');
+  print('*    c           *');
+  print('*     t          *');
+  print('*      a         *');
+  print('*      n         *');
+  print('*       g        *');
+  print('*        le       *');
+  print('*****************');
+  print('Write art program pentagon shape with steric(*)');
+  print('         *       ');
+  print('       *   *       ');
+  print('     *       *  ');
+  print('     *       *');
+  print('     *       *');
+  print('     *       *');
+  print('     ********');
+}
