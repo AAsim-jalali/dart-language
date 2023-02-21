@@ -67,6 +67,9 @@ void main() {
    */
   print('syntx is called tareqaa kar doing mthod');
   print('complie is called the show it');
+  print('complie is called the show it');
+  print('complie is called the show it');
+
   // shit to second line by \n
   print('aasim jalali\n is my best friend\n he is my class fellow');
   print('my next vadio number is 9');
