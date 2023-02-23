@@ -82,5 +82,16 @@ Write a dart program triangle shapes with  steric(*)
 Write a dart program pentagon shape with steric(*)
 Write a dart program circle shape with  steric(*)
 Write a dart program to print full pyramid using * */
-  print('       *\n      ***\n     ******\n     *******');
+  print('*\n      ***\n     ******\n     *******');
+
+  int number; // this is how we declear variable
+  number = 50;
+
+  int numbertwo;
+
+  numbertwo = 40;
+  numbertwo = -10;
+
+  print(number);
+  print(numbertwo);
 }
