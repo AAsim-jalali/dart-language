@@ -84,14 +84,47 @@ Write a dart program circle shape with  steric(*)
 Write a dart program to print full pyramid using * */
   print('*\n      ***\n     ******\n     *******');
 
-  int number; // this is how we declear variable
-  number = 50;
-
+  //this is how we declear variable
+  // this is how we intilize or we store date
+  int number;
   int numbertwo;
+  int result;
 
-  numbertwo = 40;
-  numbertwo = -10;
+  number = 20;
+  numbertwo = 30;
+  result = number - numbertwo;
 
   print(number);
   print(numbertwo);
+  print(result);
+
+  //rules for declearing variables
+  //authematic operatoe *, -, *, /
+  /*if u dicimal variable then we use double as 
+  a integer only in authematic operatoe */
+  int numberOne;
+  int numberTwo;
+  int sum;
+  int subtractresult;
+  int multipleresult;
+  double divide;
+
+  numberOne = 10;
+  numberTwo = 5;
+
+  sum = numberOne + numberTwo;
+  numberOne = numberTwo - numberOne;
+  multipleresult = numberOne * numberTwo;
+  divide = numberOne / numberTwo;
+
+  print(sum);
+  print(numberOne);
+  print(multipleresult);
+  print(divide);
+
+  /* for github i push my today work is data type
+  what is variable'variable decleration idinitification'
+  choosing' syntax how can i initialization'double datatype
+  value what is reserb key word'   */
+  //vadio number 9--3
 }
