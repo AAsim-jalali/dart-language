@@ -86,45 +86,62 @@ Write a dart program to print full pyramid using * */
 
   //this is how we declear variable
   // this is how we intilize or we store date
-  int number;
-  int numbertwo;
-  int result;
-
-  number = 20;
-  numbertwo = 30;
-  result = number - numbertwo;
-
-  print(number);
-  print(numbertwo);
-  print(result);
-
-  //rules for declearing variables
-  //authematic operatoe *, -, *, /
-  /*if u dicimal variable then we use double as 
-  a integer only in authematic operatoe */
-  int numberOne;
-  int numberTwo;
-  int sum;
-  int subtractresult;
-  int multipleresult;
-  double divide;
-
-  numberOne = 10;
-  numberTwo = 5;
-
-  sum = numberOne + numberTwo;
-  numberOne = numberTwo - numberOne;
-  multipleresult = numberOne * numberTwo;
-  divide = numberOne / numberTwo;
-
-  print(sum);
-  print(numberOne);
-  print(multipleresult);
-  print(divide);
 
   /* for github i push my today work is data type
   what is variable'variable decleration idinitification'
   choosing' syntax how can i initialization'double datatype
   value what is reserb key word'   */
   //vadio number 9--3
+
+  //paratice for my two lectures
+  print('today date is 28/02/2023');
+  // datatype integer syntax declear initilization
+
+  int number;
+  int numberOne;
+  int numberTwo;
+  int sum;
+  int subtract;
+  int multifly;
+  double divide;
+  int result;
+
+  number = 10;
+  numberOne = 15;
+  numberTwo = 20;
+
+  sum = number + numberOne;
+  subtract = numberOne - numberTwo;
+  multifly = number * numberOne;
+  divide = numberOne / number;
+  sum = number + numberTwo - numberOne;
+
+  print(number);
+  print(numberOne);
+  print(numberTwo);
+  print(sum);
+  print(subtract);
+  print(multifly);
+  print(divide);
+  print(sum);
+  print('got it');
+
+// swap values of two variables
+
+  int x;
+  x = 10;
+  int y;
+  y = 20;
+
+  print('print before swaping');
+  print('value os x: $x');
+  print('value os y: $y');
+
+  x = x + y; // 10+20 = 30
+  y = x - y; //30-20 = 10
+  x = x - y; // 30-10 = 20
+
+  print('after swaping');
+  print('value of x: $x');
+  print('value of y: $y');
 }
